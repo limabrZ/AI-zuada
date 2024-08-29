@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "azideia viado kskskskskskks",
-                afirmacao: "|||| ixiiii se soltando na baca malandro????? ||||"
+                afirmacao: "|||| ixiiii se soltando na banca malandro????? ||||"
             }
         ]
     },
@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "vo nadaaa!!! ksksks",
-                afirmacao: "||||boyceta certeza||||"
+                afirmacao: "||||sodomita certeza||||"
             },
             {
                 texto: "e dentu!! ksksks",
